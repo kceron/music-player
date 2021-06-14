@@ -15,6 +15,7 @@ const Player = ({
   setSongInfo,
   songInfo,
 }) => {
+  
   const playSongHandler = () => {
     if (isPlaying) {
       audioRef.current.pause();

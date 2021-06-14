@@ -20,7 +20,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8927",
       color: ["#A27A5F", "#701B13"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "Daylight",
@@ -40,7 +40,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=15224",
       color: ["#484938", "#E3BB7F"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "Keep Going",
@@ -110,7 +110,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=11251",
       color: ["#A5B9BE", "#45689D"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "Habitat",
@@ -120,7 +120,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10265",
       color: ["#414A2D", "#A15B39"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     //ADD MORE HERE
   ];
